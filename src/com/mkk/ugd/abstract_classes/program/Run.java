@@ -6,7 +6,7 @@ import com.mkk.ugd.abstract_classes.matters.Kure;
 import com.mkk.ugd.abstract_classes.utility.MaddeTur;
 import com.mkk.ugd.abstract_classes.utility.MaddeUtil;
 
-public class Main
+public class Run
 {
     public static void main(String[] args)
     {
